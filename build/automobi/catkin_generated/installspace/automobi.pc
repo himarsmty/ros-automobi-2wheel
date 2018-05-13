@@ -1,0 +1,8 @@
+prefix=/home/himarsmty/my_automobi/install
+
+Name: automobi
+Description: Description of automobi
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/himarsmty/my_automobi/install/lib 
+Requires: 

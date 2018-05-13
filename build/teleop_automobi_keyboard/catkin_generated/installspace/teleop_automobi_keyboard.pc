@@ -1,0 +1,8 @@
+prefix=/home/himarsmty/my_automobi/install
+
+Name: teleop_automobi_keyboard
+Description: Description of teleop_automobi_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/himarsmty/my_automobi/install/lib 
+Requires: 

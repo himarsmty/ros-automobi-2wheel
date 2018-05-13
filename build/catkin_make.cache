@@ -1,0 +1,2 @@
+myautomobi:teleop_automobi_keyboard:tutorial
+-DCATKIN_DEVEL_PREFIX=/home/himarsmty/my_automobi/devel -DCMAKE_INSTALL_PREFIX=/home/himarsmty/my_automobi/install -G Unix Makefiles

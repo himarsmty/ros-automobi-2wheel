@@ -1,0 +1,8 @@
+prefix=/home/himarsmty/my_automobi/devel
+
+Name: myautomobi
+Description: Description of myautomobi
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/himarsmty/my_automobi/devel/lib 
+Requires: 
